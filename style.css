@@ -1,0 +1,22 @@
+.newUser{
+
+    text-align: center;
+    width: 200px;
+    float: left;
+    height: 200px;
+    color: darkgrey;
+    border:solid;
+    margin: 10px;
+    overflow: hidden;
+
+}
+#footer{
+    position: relative;
+}
+#main{
+    width: 500px;
+    border: solid darkred;
+    margin-left: 300px;
+    margin-top: 5px;
+    padding: 10px;
+}
